@@ -1,4 +1,4 @@
-"""tempconv - convert between celsius and farenheit."""
+"""tempconv - convert between celsius and fahrenheit."""
 
 
 def c_to_f(c: float) -> float:
